@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'WillBottomSheet'
-  s.version          = '0.1.0'
+  s.version          = '1.0.0'
   s.summary          = 'A short description of WillBottomSheet.'
 
 # This description is used to generate tags and improve search results.
@@ -21,14 +21,14 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/willshërë/WillBottomSheet'
+  s.homepage         = 'https://github.com/willy-sdk/BottomSheet'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'willshërë' => 'kowit.nan@truedigital.com' }
-  s.source           = { :git => 'https://github.com/willshërë/WillBottomSheet.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/willy-sdk/BottomSheet', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
-  s.ios.deployment_target = '9.0'
+  s.ios.deployment_target = '10.0'
 
   s.source_files = 'WillBottomSheet/Classes/**/*'
   

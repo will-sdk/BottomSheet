@@ -54,7 +54,7 @@
 		9F84B2F97B07FEC17963DBCB /* Pods-WillBottomSheet_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WillBottomSheet_Example.release.xcconfig"; path = "Target Support Files/Pods-WillBottomSheet_Example/Pods-WillBottomSheet_Example.release.xcconfig"; sourceTree = "<group>"; };
 		B1D6F198DED536AB4AFAB2B2 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		B24601AB3A3AF410A43F05AF /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
-		B815857E0BDEE8C8A811EF37 /* WillBottomSheet.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = WillBottomSheet.podspec; path = ../WillBottomSheet.podspec; sourceTree = "<group>"; };
+		B815857E0BDEE8C8A811EF37 /* WillBottomSheet.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = WillBottomSheet.podspec; path = ../WillBottomSheet.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
