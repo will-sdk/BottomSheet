@@ -5,13 +5,14 @@
 [![License](https://img.shields.io/cocoapods/l/WillBottomSheet.svg?style=flat)](https://cocoapods.org/pods/WillBottomSheet)
 [![Platform](https://img.shields.io/cocoapods/p/WillBottomSheet.svg?style=flat)](https://cocoapods.org/pods/WillBottomSheet)
 
-```//                  _   _   _      _____ _____  _  __
- //  __          __ |_| | | | |    / ____|  __ \| |/ /
- //  \ \        / /  _  | | | |   | (___ | |  | | ' /
- //   \ \  /\  / /  | | | | | |    \___ \| |  | |  <
- //    \ \/  \/ /   | | | | | |    ____) | |__| | . \
- //     \__/\__/    |_| |_| |_|   |_____/|_____/|_|\_\
- //
+```
+//                  _   _   _      _____ _____  _  __
+//  __          __ |_| | | | |    / ____|  __ \| |/ /
+//  \ \        / /  _  | | | |   | (___ | |  | | ' /
+//   \ \  /\  / /  | | | | | |    \___ \| |  | |  <
+//    \ \/  \/ /   | | | | | |    ____) | |__| | . \
+//     \__/\__/    |_| |_| |_|   |_____/|_____/|_|\_\
+//
 ```
 ## Demo
 <img src="https://github.com/willy-sdk/BottomSheet/blob/main/Assets/bottomsheet-view.gif" width="220" ><img src="https://github.com/willy-sdk/BottomSheet/blob/main/Assets/bottomsheet-tableview.gif" width="220" ><img src="https://github.com/willy-sdk/BottomSheet/blob/main/Assets/bottomsheet-collectview.gif" width="220" >
