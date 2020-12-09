@@ -6,9 +6,9 @@
 [![Platform](https://img.shields.io/cocoapods/p/WillBottomSheet.svg?style=flat)](https://cocoapods.org/pods/WillBottomSheet)
 
 ## Demo
-<img src="https://github.com/willy-sdk/BottomSheet/blob/main/Assets/bottomsheet-view.gif" width="320" >
-<img src="https://github.com/willy-sdk/BottomSheet/blob/main/Assets/bottomsheet-tableview.gif" width="320" >
-<img src="https://github.com/willy-sdk/BottomSheet/blob/main/Assets/bottomsheet-collectview.gif" width="320" >
+<img src="https://github.com/willy-sdk/BottomSheet/blob/main/Assets/bottomsheet-view.gif" width="220" >
+<img src="https://github.com/willy-sdk/BottomSheet/blob/main/Assets/bottomsheet-tableview.gif" width="220" >
+<img src="https://github.com/willy-sdk/BottomSheet/blob/main/Assets/bottomsheet-collectview.gif" width="220" >
 
 
 ## Example
