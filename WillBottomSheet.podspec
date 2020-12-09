@@ -30,7 +30,7 @@ TODO: Add long description of the pod here.
 
   s.ios.deployment_target = '10.0'
 
-  s.source_files = 'WillBottomSheet/Sence/**/*'
+  s.source_files = 'Sence/BottomSheet/*.{swift}'
   
   # s.resource_bundles = {
   #   'WillBottomSheet' => ['WillBottomSheet/Assets/*.png']
