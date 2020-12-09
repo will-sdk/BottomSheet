@@ -1,0 +1,16 @@
+PODS:
+  - WillBottomSheet (0.1.0)
+
+DEPENDENCIES:
+  - WillBottomSheet (from `../`)
+
+EXTERNAL SOURCES:
+  WillBottomSheet:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  WillBottomSheet: eb6f146d6a05530bd6e37d875203cf34b94c564f
+
+PODFILE CHECKSUM: 4aab82c8318e25aa9053371b76e3e0ef0d68fd4c
+
+COCOAPODS: 1.9.3

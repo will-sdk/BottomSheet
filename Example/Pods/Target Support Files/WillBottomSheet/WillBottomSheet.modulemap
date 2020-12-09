@@ -1,0 +1,6 @@
+framework module WillBottomSheet {
+  umbrella header "WillBottomSheet-umbrella.h"
+
+  export *
+  module * { export * }
+}

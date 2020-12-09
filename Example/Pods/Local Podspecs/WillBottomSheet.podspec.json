@@ -1,0 +1,22 @@
+{
+  "name": "WillBottomSheet",
+  "version": "0.1.0",
+  "summary": "A short description of WillBottomSheet.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/willshërë/WillBottomSheet",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "willshërë": "kowit.nan@truedigital.com"
+  },
+  "source": {
+    "git": "https://github.com/willshërë/WillBottomSheet.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "WillBottomSheet/Classes/**/*"
+}
